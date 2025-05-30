@@ -31,7 +31,7 @@ case $BRANCH in
 
 		KERNELDIR='linux-meson'
 		KERNELSOURCE='https://github.com/xdarklight/linux'
-		KERNELBRANCH="branch:meson-mx-integration-5.18-20220417"
+		KERNELBRANCH="branch:meson-mx-integration-5.9-20200930"
 		KERNELPATCHDIR='meson-'$BRANCH
 
 	;;
